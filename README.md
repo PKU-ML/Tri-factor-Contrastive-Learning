@@ -29,7 +29,7 @@ python3 main_pretrain.py \
     --config-name simclr.yaml
 
 ```
-**NOTE:** We can Change the parameter (loss) in the scripts to pretrain the model with different methods (xent represents simclr, tri represents tri-SimCLR, spectral represents Spectral Contrastive Learning, spectral_tri represents tri-SCL).
+**NOTE:** We can change the parameter (loss) in the scripts to pretrain the model with different methods (xent represents simclr, tri represents tri-SimCLR, spectral represents Spectral Contrastive Learning, spectral_tri represents tri-SCL).
 
 After that, for offline linear evaluation on selected dimensions, follow the examples in `scripts/linear`.
 
