@@ -1,4 +1,4 @@
-# Tri-factor-Contrastive-Learning （triCL)
+# Tri-factor Contrastive Learning （triCL)
 
 This repository includes a PyTorch implementation of the NeurIPS 2023 paper [Identifiable Contrastive Learning with Automatic Feature Importance Discovery](https://openreview.net/forum?id=BQA7wR2KBF) authored by Qi Zhang*, [Yifei Wang*](https://yifeiwang77.github.io/), and [Yisen Wang](https://yisenwang.github.io/).
 
