@@ -21,14 +21,14 @@ method_kwargs:
   temperature: 0.2
   drop: 0
   relu: None
-  loss_type: relu
+  loss_type: tri
   tau: 1
   gsize: 256
   learnable_temp: 0
   normalize: dim
   power_iter: 1
 data:
-  dataset: cifar100 # change here for cifar100
+  dataset: cifar10 # change here for cifar100
   train_path: "data"
   val_path: "data"
   format: "image_folder"
