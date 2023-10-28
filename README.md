@@ -39,7 +39,7 @@ After that, for offline linear evaluation on selected dimensions, follow the exa
 If you find the work useful, please cite the accompanying paper:
 ```
 @inproceedings{
-anonymous2023tricontrastive,
+zhang2023tricontrastive,
 title={Tri-contrastive Learning: Identifiable Representation Learning with Automatic Discovery of Feature Importance},
 author={Qi Zhang and Yifei Wang and Yisen Wang},
 booktitle={NeurIPS},
