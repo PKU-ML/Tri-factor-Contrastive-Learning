@@ -40,7 +40,7 @@ If you find the work useful, please cite the accompanying paper:
 ```
 @inproceedings{
 zhang2023tricontrastive,
-title={Tri-contrastive Learning: Identifiable Representation Learning with Automatic Discovery of Feature Importance},
+title={Identifiable Contrastive Learning with Automatic Feature Importance Discovery},
 author={Qi Zhang and Yifei Wang and Yisen Wang},
 booktitle={NeurIPS},
 year={2023},
